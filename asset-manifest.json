@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidedish/static/css/main.cf506294.css",
+    "main.js": "/sidedish/static/js/main.6653265d.js",
+    "index.html": "/sidedish/index.html",
+    "main.cf506294.css.map": "/sidedish/static/css/main.cf506294.css.map",
+    "main.6653265d.js.map": "/sidedish/static/js/main.6653265d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf506294.css",
+    "static/js/main.6653265d.js"
+  ]
+}
